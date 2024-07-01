@@ -1,0 +1,1 @@
+This is an evaluation sensor to show the Melexis MLX92362 Hall-Effect latch in a series-connected liquid level sensor application. An output buffer is included to present a low-impedance output to the system to minimize burden voltage effects on the resistive divider chain.
